@@ -5,7 +5,7 @@ A dark and minimalistic theme.
 ## Demo
 
 <p align="center">
-	<img src="resources/screenshots/theme.png" width="750" alt="Theme">
+  <img src="resources/screenshots/theme.png" width="750" alt="Theme">
 </p>
 
 ## License
