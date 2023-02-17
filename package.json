@@ -1,6 +1,6 @@
 {
   "name": "multi-homepage",
-  "description": "Open multiple urls with a single click.",
+  "description": "A dark and minimalistic theme.",
   "version": "1.0.0",
   "scripts": {
     "icons:resize": "cd resources/icon && convert icon.png -resize 16x16 icon-16.png && convert icon.png -resize 32x32 icon-32.png && convert icon.png -resize 48x48 icon-48.png && convert icon.png -resize 64x64 icon-64.png && convert icon.png -resize 128x128 icon-128.png && convert icon.png -resize 256x256 icon-256.png",
